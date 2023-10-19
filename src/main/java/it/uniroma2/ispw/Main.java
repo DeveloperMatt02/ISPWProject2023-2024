@@ -8,6 +8,6 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
         System.out.println("Version_0.0.1.1_alpha");
-        System.out.println("Print snyppololo..");
+        System.out.println("Print snyppololo...");
     }
 }
